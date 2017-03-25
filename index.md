@@ -1,6 +1,8 @@
 ## Senior Computer Science student at the University of South Carolina.
 [Resume](https://github.com/LawtonM/LawtonM.github.io/blob/master/files/Resume.pdf)
 
+[My Github](https://github.com/Alcamech)
+
     > Lawton.origin
         => "Charleston, SC"
 
