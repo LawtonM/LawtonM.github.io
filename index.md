@@ -1,4 +1,5 @@
 ## Senior Computer Science student at the University of South Carolina.
+[Resume](../blob/master/files/Resume.pdf)
 
     > Lawton.origin
         => "Charleston, SC"
@@ -15,9 +16,6 @@
     > Lawton.interest
         => "Artificial Intelligence, Machine Learning,
             WebApp Development, Drawing, Running"
-	
-    > Lawton.resume
-        => [Resume](../blob/master/files/Resume.pdf)
 
     > Lawton.email
         =>lmizell@email.sc.edu
