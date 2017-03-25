@@ -13,7 +13,8 @@
         => "May 2018"
 
     > Lawton.interest
-        => "Artificial Intelligence, Machine Learning, WebApp Development, Drawing, Running"
+        => "Artificial Intelligence, Machine Learning,
+            WebApp Development, Drawing, Running"
 	
     > Lawton.resume
 
