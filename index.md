@@ -1,5 +1,5 @@
 ## Senior Computer Science student at the University of South Carolina.
-[Resume](../blob/master/files/Resume.pdf)
+[Resume](https://github.com/LawtonM/LawtonM.github.io/blob/master/files/Resume.pdf)
 
     > Lawton.origin
         => "Charleston, SC"
