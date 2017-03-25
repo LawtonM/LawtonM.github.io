@@ -1,5 +1,4 @@
-##Home
-Senior Computer Science student at the University of South Carolina.
+## Senior Computer Science student at the University of South Carolina.
 
     > Lawton.origin
     	=> "Charleston, SC"
