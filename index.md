@@ -15,7 +15,8 @@
 
     > Lawton.interest
         => "Artificial Intelligence, Machine Learning,
-            WebApp Development, Drawing, Running"
+            Computer Security, WebApp Development,
+            Drawing, Running"
 
     > Lawton.email
         =>lmizell@email.sc.edu
