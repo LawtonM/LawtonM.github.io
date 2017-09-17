@@ -1,5 +1,5 @@
 ## Senior Computer Science student at the University of South Carolina.
-[Resume](https://github.com/LawtonM/LawtonM.github.io/blob/master/files/Resume.pdf)
+[Resume](https://github.com/LawtonM/LawtonM.github.io/blob/master/lmizellResume2018.docx.pdf)
 
 [My Github](https://github.com/Alcamech)
 
@@ -16,8 +16,8 @@
         => "May 2018"
 
     > Lawton.interest
-        => "Artificial Intelligence, Machine Learning,
-            Computer Security, WebApp Development,
+        => "Artificial Intelligence, Computer Security, 
+            Data Science, Racquetball,
             Drawing, Running"
 
     > Lawton.email
