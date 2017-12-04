@@ -1,5 +1,5 @@
 ## Senior Computer Science student at the University of South Carolina.
-[Resume](https://github.com/LawtonM/LawtonM.github.io/blob/master/lmizellResume2018.docx.pdf)
+[Resume](https://github.com/LawtonM/LawtonM.github.io/blob/master/lmizellResume2018(new).docx.pdf)
 
 [My Github](https://github.com/Alcamech)
 
