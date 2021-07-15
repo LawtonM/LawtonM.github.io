@@ -7,18 +7,21 @@
         => "Charleston, SC"
 
     > Lawton.education
-        => "University of South Carolina"
+        => "University of South Carolina - Columbia"
 
     > Lawton.major
         => "Computer Science"
 
-    > Lawton.expectedGraduation
-        => "May 2018"
-
     > Lawton.interest
-        => "Artificial Intelligence, Computer Security, 
-            Data Science, Racquetball,
-            Drawing, Running"
+        => "Software Engineering, Artificial Intelligence, 
+            Computer Security, Data Science,
+            Piano, Chess, Kayak Fishing."
 
     > Lawton.email
-        =>lmizell@email.sc.edu
+        => "alcamech@gmail.com"
+        
+    > Lawton.history
+       => "[2018] Begin full time employment with Naval Information Warfare Center 
+           [2018] Graduated from the University of South Carolina
+           [2014] Begin College at the University of South Carolina
+           [2014] Graduated Highschool from Military Magnet Academy"
