@@ -1,5 +1,5 @@
 ## Software Engineer at Naval Information Warfare Center
-[Resume](https://github.com/LawtonM/LawtonM.github.io/blob/master/lmizellResume2018(new).docx.pdf)
+[Resume](https://github.com/LawtonM/LawtonM.github.io/blob/master/lmizell_resume_2021_v1.pdf)
 
 [My Github](https://github.com/Alcamech)
 
