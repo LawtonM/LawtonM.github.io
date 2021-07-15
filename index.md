@@ -1,4 +1,4 @@
-## Senior Computer Science student at the University of South Carolina.
+## Software Engineer at Naval Information Warfare Center
 [Resume](https://github.com/LawtonM/LawtonM.github.io/blob/master/lmizellResume2018(new).docx.pdf)
 
 [My Github](https://github.com/Alcamech)
