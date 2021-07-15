@@ -21,7 +21,7 @@
         => "alcamech@gmail.com"
         
     > Lawton.history
-       => "[2018] Begin full time employment with Naval Information Warfare Center 
+       => "[2018] Full time employment with Naval Information Warfare Center 
            [2018] Graduated from the University of South Carolina
-           [2014] Begin College at the University of South Carolina
+           [2014] Started College at the University of South Carolina
            [2014] Graduated Highschool from Military Magnet Academy"
