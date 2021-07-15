@@ -13,7 +13,7 @@
         => "Computer Science"
 
     > Lawton.interest
-        => "Software Engineering, Artificial Intelligence, 
+        => "Software Engineering, Code, Artificial Intelligence, 
             Computer Security, Data Science,
             Piano, Chess, Kayak Fishing."
 
