@@ -6,6 +6,8 @@ Always learning, always striving to be better.
 
 [My Github](https://github.com/Alcamech)
 
+My [Strengths](https://raw.githubusercontent.com/LawtonM/LawtonM.github.io/master/cliftonStrengths.pdf) according to the CliftonStrengths assessment
+
     > Lawton.origin
         => "Charleston, SC"
 
