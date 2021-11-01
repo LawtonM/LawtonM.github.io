@@ -1,4 +1,4 @@
-## Software Engineer at Naval Information Warfare Center
+## Software Engineer at Red Hat
 
 Always learning, always striving to be better. 
 
@@ -26,7 +26,8 @@ My [Strengths](https://raw.githubusercontent.com/LawtonM/LawtonM.github.io/maste
         => "alcamech@gmail.com"
         
     > Lawton.history
-        => "[2018] Full time employment with Naval Information Warfare Center 
+        => "[2021] Full time employment with Red Hat
+            [2018] Full time employment with Naval Information Warfare Center 
             [2018] Graduated from the University of South Carolina
             [2014] Started College at the University of South Carolina
             [2014] Graduated Highschool from Military Magnet Academy"
