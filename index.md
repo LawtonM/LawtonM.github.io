@@ -1,8 +1,8 @@
-## Software Engineer at Red Hat
+## Senior Software Engineer at Red Hat
 
 Always learning, always striving to be better. 
 
-[Resume](https://raw.githubusercontent.com/LawtonM/LawtonM.github.io/master/lmizell_resume_2021_v3.pdf)
+[Resume](https://raw.githubusercontent.com/LawtonM/LawtonM.github.io/master/lmizell_resume_2021_v2.pdf)
 
 [My Github](https://github.com/Alcamech)
 
@@ -18,12 +18,11 @@ My [Strengths](https://raw.githubusercontent.com/LawtonM/LawtonM.github.io/maste
         => "Computer Science"
 
     > Lawton.interest
-        => "Software Engineering, Code, Artificial Intelligence, 
-            Computer Security, Data Science,
+        => "Software Engineering, Artificial Intelligence, Computer Security,
             Piano, Chess, Kayak Fishing."
 
     > Lawton.email
-        => "alcamech@gmail.com"
+        => "lmizell@pm.me"
         
     > Lawton.history
         => "[2021] Full time employment with Red Hat
