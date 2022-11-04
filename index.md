@@ -4,9 +4,11 @@ Always learning, always striving to be better.
 
 [Resume](https://raw.githubusercontent.com/LawtonM/LawtonM.github.io/master/lmizell_resume_2021_v2.pdf)
 
-[My Github](https://github.com/Alcamech)
+[Github](https://github.com/Alcamech)
 
-My [Strengths](https://raw.githubusercontent.com/LawtonM/LawtonM.github.io/master/cliftonStrengths.pdf) according to the CliftonStrengths assessment
+[LinkedIn](https://www.linkedin.com/in/lawton-mizell-a70b3493/)
+
+[Strengths](https://raw.githubusercontent.com/LawtonM/LawtonM.github.io/master/cliftonStrengths.pdf) according to the CliftonStrengths assessment
 
     > Lawton.origin
         => "Charleston, SC"
