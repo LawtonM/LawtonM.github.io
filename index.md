@@ -2,7 +2,7 @@
 
 Always learning, always striving to be better. 
 
-[Resume](https://raw.githubusercontent.com/LawtonM/LawtonM.github.io/master/lmizell_resume_2021_v2.pdf)
+[Resume](https://raw.githubusercontent.com/LawtonM/LawtonM.github.io/master/lmizell_resume_2025_v3)
 
 [Github](https://github.com/Alcamech)
 
